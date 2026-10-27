@@ -1,5 +1,3 @@
-CODEX: do NOT TOUCH GIT NO MATTER WHAT!!!!!!!!!!!
-
 # Emmy IR to PTX
 
 A small learning compiler for category 1 pointwise kernels and f32 reductions.
